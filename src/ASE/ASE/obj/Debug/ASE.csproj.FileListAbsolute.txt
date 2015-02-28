@@ -1,0 +1,5 @@
+\\kc.umkc.edu\kc-users\home\k\kapnb\my documents\visual studio 2010\Projects\ASE\ASE\bin\ASE.dll
+\\kc.umkc.edu\kc-users\home\k\kapnb\my documents\visual studio 2010\Projects\ASE\ASE\bin\ASE.pdb
+\\kc.umkc.edu\kc-users\home\k\kapnb\my documents\visual studio 2010\Projects\ASE\ASE\obj\Debug\ASE.dll
+\\kc.umkc.edu\kc-users\home\k\kapnb\my documents\visual studio 2010\Projects\ASE\ASE\obj\Debug\ASE.pdb
+\\kc.umkc.edu\kc-users\home\k\kapnb\My Documents\Visual Studio 2010\Projects\ASE\ASE\obj\Debug\ASE.csprojResolveAssemblyReference.cache
